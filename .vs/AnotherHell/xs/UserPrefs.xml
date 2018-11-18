@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{A626AE5A-96FA-370D-9F70-C13937654A44}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/chestOpen.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Pillar.cs">
     <Files>
-      <File FileName="Assets/PlayerController.cs" Line="23" Column="6" />
-      <File FileName="Assets/Pillar.cs" Line="37" Column="21" />
-      <File FileName="Assets/GameController.cs" Line="39" Column="10" />
-      <File FileName="Assets/chestOpen.cs" Line="13" Column="5" />
+      <File FileName="Assets/PlayerController.cs" Line="18" Column="44" />
+      <File FileName="Assets/Pillar.cs" Line="39" Column="1" />
+      <File FileName="Assets/GameController.cs" Line="30" Column="65" />
+      <File FileName="Assets/chestOpen.cs" Line="7" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

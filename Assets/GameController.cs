@@ -50,6 +50,7 @@ public class GameController : MonoBehaviour
         for (int i = 0; i < 3; i++)
         {
             pillars[i].GetComponent<SpriteRenderer>().sprite = pillarOff;
+            pillars[i].GetComponent<Pillar>().isPillarOn = false;
         }
     }
 
